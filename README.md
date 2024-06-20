@@ -1,7 +1,7 @@
 
   
 <p align="center">
-  <a href="#"><img src="https://spezz.exchange/store/uploads/monthly_2024_06/logo3.webp.8834210af97fe50d1ff62b2693d61764.webp"></a>
+  <a href="#"><img src="https://imgur.com/a/vceBE6k"></a>
   <a href="#"><img src="https://i.imgur.com/W2ZjSPs.png"></a>
 </p>
 
