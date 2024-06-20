@@ -2,7 +2,7 @@
   
 <p align="center">
   <a href="#"><img src="https://imgur.com/a/vceBE6k"></a>
-  <a href="#"><img src="https://i.imgur.com/W2ZjSPs.png"></a>
+  <a href="#"><img src="https://www.thesignshed.co.uk/cdn/shop/products/skid-risk-sign-479256.jpg?v=1680277815"></a>
 </p>
 
 ---
