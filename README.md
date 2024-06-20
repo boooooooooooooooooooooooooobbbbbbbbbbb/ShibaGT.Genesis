@@ -9,7 +9,7 @@
 
 <p align="center">
 	<a href="https://spezz.exchange/store/uploads/monthly_2024_06/logo3.webp.8834210af97fe50d1ff62b2693d61764.webp"></a>
-	<a href="[https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest](https://spezz.exchange/store/uploads/monthly_2024_06/logo3.webp.8834210af97fe50d1ff62b2693d61764.webp)"><img src="[https://img.shields.io/github/downloads/iiDk-the-actual/iis.Stupid.Menu/latest/iis_Stupid_Menu.dll?style=for-the-badge](https://spezz.exchange/store/uploads/monthly_2024_06/logo3.webp.8834210af97fe50d1ff62b2693d61764.webp)"></a>
+	<a href="[[https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest](https://spezz.exchange/store/uploads/monthly_2024_06/logo3.webp.8834210af97fe50d1ff62b2693d61764.webp](https://spezz.exchange/store/uploads/monthly_2024_06/logo3.webp.8834210af97fe50d1ff62b2693d61764.webp))"><img src="[https://img.shields.io/github/downloads/iiDk-the-actual/iis.Stupid.Menu/latest/iis_Stupid_Menu.dll?style=for-the-badge](https://spezz.exchange/store/uploads/monthly_2024_06/logo3.webp.8834210af97fe50d1ff62b2693d61764.webp)"></a>
 	<a href="https://discord.gg/iidk"><img src="https://img.shields.io/badge/discord-10203%20online-blueviolet?style=for-the-badge"></a>
 </p>
 
