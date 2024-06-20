@@ -1,7 +1,6 @@
 
   
 <p align="center">
-## 🐀
   <a href="#"><img src="https://www.thesignshed.co.uk/cdn/shop/products/skid-risk-sign-479256.jpg?v=1680277815"></a>
 </p>
 
@@ -15,7 +14,7 @@
 
 ---
 
-# Shiba Genesis (not skidded from a better modder!)
+# Shiba Genesis 🐀🐀🐀🐀 (not skidded from a better modder!)
 i̶i̶'s̶ S̶t̶u̶p̶i̶d̶ M̶e̶n̶u̶  ShibaGT Genesis is a mod menu for Gorilla Tag, created by me, skid pr- ShibaGT. This menu is designed to be as useful as possible by providing any variety of features and options you would ever need. With ii's Stupid Menu, you can explore new functionalities, experiment with different settings, and enjoy a more personalized modding experience.
 
 ## Why make your menu open-sourced?
