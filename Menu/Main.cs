@@ -24,7 +24,7 @@ using UnityEngine.UI;
 using UnityEngine.XR;
 using Valve.VR;
 using static iiMenu.Classes.RigManager;
-using static System.Runtime.CompilerServices.RuntimeHelpers;
+using static System.Runtime.CompilerServices.RuntimeHelper
 
 /*
 ii's Stupid Menu, written by goldentrophy
